@@ -282,6 +282,7 @@ html {
 .works-item {
   display: flex;
   flex-basis: calc(100% / 3);
+  padding-bottom: 94px;
 }
 
 .works-img {
