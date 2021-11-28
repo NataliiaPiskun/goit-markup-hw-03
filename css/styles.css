@@ -277,6 +277,9 @@ html {
 
 /* Our works */
 
+.section.work-box {
+    padding-bottom: 94px;
+}
 .works-list {
     text-align: center;
     margin-bottom: 50px;
@@ -290,7 +293,6 @@ html {
 .works-item {
     display: flex;
     flex-basis: calc(100% / 3);
-    padding-bottom: 94px;
 }
 
 .works-img {
@@ -304,8 +306,8 @@ html {
 /* Team section */
 
 .section.team {
+    padding-bottom: 94px;
     background-color: var(--bcg-secondary);
-    height: 648px;
 }
 
 .team-photo {
